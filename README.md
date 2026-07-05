@@ -12,7 +12,6 @@ one-time setup step.
 | **Enquiry Desk** | [`Enquiry-Desk/`](./Enquiry-Desk) | Full enquiry-to-delivery pipeline in Notion — logging, status lifecycle, follow-up queue, pipeline analytics |
 | **Purchase Registry** | [`Purchase-Registry/`](./Purchase-Registry) | Purchase order CRUD, status tracking, supplier spend, overdue reporting |
 | **Registry Management** | [`Registry-Management/`](./Registry-Management) | Generic register builder — scaffolds a brand-new Notion register type from a description, for anything that doesn't have a dedicated skill yet |
-| **Heat Chart Generation** | [`Heat-Chart-Generation/`](./Heat-Chart-Generation) | Populates a material heat/traceability chart from extracted BOM data |
 | **BOM Extraction** | [`BOM-Extraction/`](./BOM-Extraction) | Parses engineering/technical drawings (any discipline) into structured JSON — BOM, title block, schedules, revisions |
 | **Market Research** | [`Market-Research/`](./Market-Research) | Turns a one-line business description into an executive brief, ICP, target list, and outreach playbook |
 
